@@ -1,0 +1,14 @@
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\bin\Debug\netcoreapp2.1\WebApiSolution.deps.json
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\bin\Debug\netcoreapp2.1\WebApiSolution.runtimeconfig.json
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\bin\Debug\netcoreapp2.1\WebApiSolution.runtimeconfig.dev.json
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\bin\Debug\netcoreapp2.1\WebApiSolution.dll
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\bin\Debug\netcoreapp2.1\WebApiSolution.pdb
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.csprojAssemblyReference.cache
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.csproj.CoreCompileInputs.cache
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.RazorAssemblyInfo.cache
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.RazorAssemblyInfo.cs
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.AssemblyInfoInputs.cache
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.AssemblyInfo.cs
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.RazorTargetAssemblyInfo.cache
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.dll
+C:\Users\tahag\source\repos\WebApiSolution\WebApiSolution\obj\Debug\netcoreapp2.1\WebApiSolution.pdb
